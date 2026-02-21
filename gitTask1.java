@@ -3,5 +3,6 @@ public class gitTask1 {
     System.out.println("hi");
     System.out.println("New Branch created");
     System.out.println("branch 2 created");
+     System.out.println("switched to intellij");
  }   
 }
